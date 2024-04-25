@@ -1,4 +1,8 @@
-### Requirements - Thông tin của bộ Code Base này - Chuẩn các phiên bản dưới đây để bắt đầu học: (Semantic Versioning)
+# Trello Website Clone(React - Material UI ..vv)
+
+### Requirements - Information of this base - Version about techs: (Semantic Versioning)
+
+### Technology:
 
 ```
 * nodejs = v18.16.0
@@ -18,3 +22,12 @@
 * "eslint-plugin-react-hooks": "^4.6.0"
 * "eslint-plugin-react-refresh": "^0.3.4"
 ```
+
+## Preview Screenshot
+
+<div  align="center">
+
+<img  src="https://github.com/minatisleeping/trello-web/blob/master/images/trello-web-light-mode.png"  alt="Light Mode"  width="45%"></img> &nbsp;&nbsp;
+<img  src="https://github.com/minatisleeping/trello-web/blob/master/images/trello-web-dark-mode.png"  alt="Dark Mode"  width="45%"></img> &nbsp;&nbsp;
+
+</div>
