@@ -24,7 +24,7 @@ function Board() {
   const [board, setBoard] = useState(null)
 
   useEffect(() => {
-    const boardId = '65b71f59778130202edf265c'
+    const boardId = '662b6b466d80adffc9344fe9'
     // Call API
     fetchBoardDetailsAPI(boardId).then(board => {
       // Sắp xếp lại thứ tự của columns luôn ở đây trước khi đưa dữ liệu xuống bên dưới các component con
