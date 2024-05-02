@@ -137,7 +137,7 @@ function Board() {
 
     // Gọi API xử lí phía BE
     let prevCardOrderIds = dndOrderedColumns.find(c => c._id === prevColumnId)?.cardOrderIds || []
-    if (prevCardOrderIds[0].includes('placeholder-card')) prevCardOrderIds = [] // Nếu là 'place-holder' thì không cần gửi lên BE
+    if (prevCardOrderIds[0].includes('placeholder')) prevCardOrderIds = [] // Nếu là 'place-holder' thì không cần gửi lên BE
 
     moveCardToDifferentColumnAPI({
       currentCardId,

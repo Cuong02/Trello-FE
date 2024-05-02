@@ -1,33 +1,17 @@
-# Trello Website Clone(React - Material UI ..vv)
+# Trello Web
 
-### Requirements - Information of this base - Version about techs: (Semantic Versioning)
+## Requirements
 
-### Technology:
+- Node v18.16.0
+- Git
+
+Clone project and run test
 
 ```
-* nodejs = v18.16.0
-* npm = v9.5.1
-* yarn = v1.22.19
-
-* "react": "^18.2.0"
-* "react-dom": "^18.2.0"
-* "@types/react": "^18.0.28"
-* "@types/react-dom": "^18.0.11"
-
-* "vite": "^4.3.2"
-* "@vitejs/plugin-react-swc": "^3.0.0"
-
-* "eslint": "^8.38.0"
-* "eslint-plugin-react": "^7.32.2"
-* "eslint-plugin-react-hooks": "^4.6.0"
-* "eslint-plugin-react-refresh": "^0.3.4"
+$ git clone https://git_url_clone <project_dir>
+$ cd <project_dir>
+$ npm install
+$ npm run dev
 ```
 
-## Preview Screenshot
-
-<div  align="center">
-
-<img  src="https://github.com/minatisleeping/trello-web/blob/master/images/trello-web-light-mode.png"  alt="Light Mode"  width="45%"></img> &nbsp;&nbsp;
-<img  src="https://github.com/minatisleeping/trello-web/blob/master/images/trello-web-dark-mode.png"  alt="Dark Mode"  width="45%"></img> &nbsp;&nbsp;
-
-</div>
+Thanks for watching!
